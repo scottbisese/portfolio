@@ -1,27 +1,54 @@
-# Class 04: Responsive Web Design and Regular Expressions 
+Prologue by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-## Overview
 
-Today's lecture will cover several topics. The style-based topic include a third approach to styling, CSS Grids. We will also discuss relative units for responsive web design and a demonstration of how to add icon fonts to an application.
+This is Prologue, a simple, single page responsive site template. It features a
+clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
 
-We will also discuss the basics of pattern matching with regular expressions, including the introduction of several online validation tools.
+Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
+more of her amazing work over at deviantART:
 
-## Daily Plan
+http://ineedchemicalx.deviantart.com/
 
-- Warm-up exercise
-- Review code challenges
-- Introduction of today's code challenge topic
-- CSS Grid Garden
-- Responsive web design
-- Icon fonts
-- Regular expressions
-- Code Demo
-- Lab Preview
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Felicia's work without her explicit permission!)
 
-## Learning Objectives
+Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
+images you can use for pretty much whatever.
 
-As a result of completing lecture 4 of Code 301, students will:
-- Understand how to create a responsive web site using relative units
-- Be able to style a web application with CSS grids
-- Understand how to add and style icon fonts
-- Understand the basics of pattern matching with regular expressions
+(* = Not included)
+
+AJ
+aj@lkn.io | @ajlkn
+
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+
+
+Credits:
+
+	Demo Images:
+		Felicia Simion (ineedchemicalx.deviantart.com)
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+
+
+Number and name of feature: Feature #2: Modify the contents
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 9:00 am
+Lunch: 60 minutes
+Finish time: 12:00 pm
+
+Actual time needed to complete: 3:00 hr:min
